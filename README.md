@@ -25,6 +25,7 @@
   ├── Data/                          # Data files    
   |   └── DataProcessing/            # Code used to process data
   ├── EDA/                           # Exploratory data analysis stage
+  ├── FirstTest/                     # Temporary test folder
   ├── reqirements.txt                # Needed dependencies' versions
   └── README.md                      # This file
 ```
