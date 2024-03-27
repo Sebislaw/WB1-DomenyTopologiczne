@@ -14,7 +14,7 @@
 
 <!--[Tutorial for R package](https://bioconductor.org/books/devel/OHCA/pages/visualization.html)-->
 
-[Theoretical introduction to Hi-C](https://www.youtube.com/watch?v=Hk5ixO7Tb24&ab_channel=XiaoleShirleyLiu)
+<!--[Theoretical introduction to Hi-C](https://www.youtube.com/watch?v=Hk5ixO7Tb24&ab_channel=XiaoleShirleyLiu)-->
 
 [Theoretical introduction to TADs](https://www.youtube.com/watch?v=hg24ZIX06Tk&ab_channel=XiaoleShirleyLiu)
 
