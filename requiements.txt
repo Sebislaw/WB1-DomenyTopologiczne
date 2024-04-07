@@ -1,0 +1,8 @@
+hic-straw==0.0.6
+igraph==0.11.4
+matplotlib==3.7.2
+networkx==3.1
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.2.2
+seaborn==0.12.2
