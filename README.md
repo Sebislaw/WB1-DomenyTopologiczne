@@ -24,9 +24,15 @@
 
 ```
   WB1/
-  ├── FirstTest/                     # Temporary test folder
-  ├── reqirements.txt                # Needed dependencies' versions for Python
-  └── README.md                      # This file
+  ├── Data/                                                  # Data files
+  |   └── GSE63525_GM12878_diploid_maternal.txt              # R data load test
+  ├── R/                                                     # R code
+  |   └── FirstTestDataLoad/                                 # R data load test
+  |       └── LowQualityMatrix.bmp                               
+  |       └── PDFMatrix.pdf                                 
+  |       └── WB1_test1.R                                 
+  ├── reqirements.txt                                        # Needed dependencies' versions for Python
+  └── README.md                                              # This file
 ```
 <!--
 ```
