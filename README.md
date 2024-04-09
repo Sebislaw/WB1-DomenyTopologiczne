@@ -25,12 +25,11 @@
 ```
   WB1/
   ├── Data/                                                  # Data files
-  |   └── GSE63525_GM12878_diploid_maternal.txt              # R data load test
+  |   └── GSE63525_GM12878_diploid_maternal.txt              
+  ├── EDA/                                                   # Exploratory data analysis stage
   ├── R/                                                     # R code
-  |   └── FirstTestDataLoad/                                 # R data load test
-  |       └── LowQualityMatrix.bmp                               
-  |       └── PDFMatrix.pdf                                 
-  |       └── WB1_test1.R                                 
+  |   └── ... 
+  ├── .gitignore                                                    
   ├── reqirements.txt                                        # Needed dependencies' versions for Python
   └── README.md                                              # This file
 ```
