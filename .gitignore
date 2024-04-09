@@ -1,5 +1,6 @@
-# ignore ALL .hic and .png files
+# ignore files
 *.hic
+*.Rhistory
 
 # igrone directories
 NetworkxGraphResults/
