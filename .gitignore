@@ -1,0 +1,8 @@
+# ignore ALL .hic and .png files
+*.hic
+
+# igrone directories
+NetworkxGraphResults/
+ContactMatrixResults/
+PersonalCopy/
+.ipynb_checkpoints/
