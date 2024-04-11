@@ -14,6 +14,8 @@
 
 [Example algorithms to compare to](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389712/)
 
+[EDA_pictures](https://wutwaw-my.sharepoint.com/:f:/g/personal/01180730_pw_edu_pl/EsRnjhq45_xPvCdkGnwkTjUBwmTB_KfVMv-rsTDWaFLofw?e=X9LRUM)
+
 <!--[Tutorial for R package](https://bioconductor.org/books/devel/OHCA/pages/visualization.html)-->
 
 <!--[Theoretical introduction to Hi-C](https://www.youtube.com/watch?v=Hk5ixO7Tb24&ab_channel=XiaoleShirleyLiu)-->
