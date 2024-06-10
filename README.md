@@ -17,25 +17,11 @@
   ├── Model/                                       # Model creation and tuning
   ├── Results/                                     # Showcase and comparison with other methods
   ├── Report.*                                     # Final project report
+  ├── Prezentacja_wyników.*                        # Final project prezentation
   ├── .gitignore                                                   
   ├── reqirements.txt                              # Needed dependencies' versions for Python
   └── README.md                                    # This file
 ```
-
-<!---
-```
-  WB1/
-  ├── Data/                                                  # Data files
-  ├── EDA/                                                   # Exploratory data analysis stage
-  ├── Model/                                                   # Exploratory data analysis stage
-  ├── Results/                                                   # Exploratory data analysis stage
-  |   └── EDA.ipynb                                          # EDA jupyter notebook     
-  ├── R/... 
-  ├── .gitignore                                                    
-  ├── reqirements.txt                                        # Needed dependencies' versions for Python
-  └── README.md                                              # This file
-```
---->
 
 **Usage**
 
