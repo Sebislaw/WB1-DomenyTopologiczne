@@ -1,4 +1,6 @@
-# Research Workshops - TAD detection
+# Warsztaty badawcze 1 - detekcja domen topologicznych
+
+Research Workshops - TAD detection
 
 **Main links**
 
@@ -24,6 +26,7 @@
 
 ```
   WB1/
+<<<<<<< Updated upstream
   ├── Data/                                                  # Data files
   |   └── GSE63525_GM12878_diploid_maternal.txt              
   ├── EDA/                                                   # Exploratory data analysis stage
@@ -44,6 +47,19 @@
   └── README.md                      # This file
 ```
 -->
+=======
+  ├── Data/                                        # Data files
+  ├── EDA/                                         # Exploratory data analysis stage
+  ├── Model/                                       # Model creation and tuning
+  ├── Results/                                     # Showcase and comparison with other methods
+  ├── Raport.*                                     # Final project report
+  ├── PrezentacjaWyników.*                         # Final project prezentation
+  ├── .gitignore                                                   
+  ├── reqirements.txt                              # Needed dependencies' versions for Python
+  └── README.md                                    # This file
+```
+
+>>>>>>> Stashed changes
 **Usage**
 
 Install dependencies: `pip install -r requirements.txt`
