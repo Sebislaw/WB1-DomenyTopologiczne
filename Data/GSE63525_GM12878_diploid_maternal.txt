@@ -1,4 +1,0 @@
-Data from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525
-File: GSE63525_GM12878_diploid_maternal.hic
-
-Providing a link due to GitHub's file size limit.
