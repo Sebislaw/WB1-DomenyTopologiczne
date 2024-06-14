@@ -15,9 +15,8 @@
   ├── Data/                                        # Data files
   ├── EDA/                                         # Exploratory data analysis stage
   ├── Model/                                       # Model creation and tuning
-  ├── Results/                                     # Showcase and comparison with other methods
-  ├── Report.*                                     # Final project report
-  ├── Prezentacja_wyników.*                        # Final project prezentation
+  ├── Raport.*                                     # Final project report
+  ├── Prezentacja_wyników.pdf                      # Final project prezentation
   ├── .gitignore                                                   
   ├── reqirements.txt                              # Needed dependencies' versions for Python
   └── README.md                                    # This file
