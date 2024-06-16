@@ -4,8 +4,6 @@
 
 **Useful materials**
 
-[Topic on GitHub](https://github.com/topics/3d-genome)
-
 [Hi-C data](https://github.com/mdozmorov/HiC_data)
 
 [Tools for Hi-C analysis and TAD detection](https://github.com/mdozmorov/HiC_tools?tab=readme-ov-file)
@@ -17,6 +15,7 @@
   ├── Data/                                        # Data files
   ├── EDA/                                         # Exploratory data analysis stage
   ├── Model/                                       # Model creation and tuning
+  ├── TestingModel/                                # Testing and comparing model
   ├── Raport.pdf                                   # Final project report
   ├── Prezentacja_wyników.pdf                      # Final project prezentation
   ├── .gitignore                                                   
